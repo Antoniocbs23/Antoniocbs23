@@ -1,4 +1,4 @@
-###   lá! Eu sou o Antonio Carlos 🖐️👋
+### Ola, Eu sou o Antonio Carlos! 🖐️👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antoniocs23/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-carlos-braga-silva-034b82224/)
 ![Antoniocbs23 GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoniocbs23&show_icons=true&theme=dracula&count_private=true)
